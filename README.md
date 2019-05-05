@@ -39,7 +39,7 @@ Dropping irrelevant columns like 'DisbursalDate', 'Current_pincode_ID' ,'NO.OF_I
  <h5> Model Building & Result </h5>
  <p>CatBoost Classifier	
  <p>ROC AUC Score  0.6442
-<p>------------------------------------------------------------------------------------------------------------------
+<p>------------------------------------------------------------------------------------------------------------------------
 Thank You!	
 <p><!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/shreyaswankhede" aria-label="Follow @shreyaswankhede on GitHub">Follow @shreyaswankhede</a>	 
